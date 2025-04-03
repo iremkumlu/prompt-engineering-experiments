@@ -1,8 +1,6 @@
-# prompt-engineering-experiments
-
-prompt engineering experiments
 
 📌 Prompt Engineering Çalışmaları
+
 Bu repo, yapay zeka modelleriyle yapılan Prompt Engineering çalışmaları kapsamında gerçekleştirilen deneyleri ve analizleri içermektedir. Burada, farklı prompt teknikleri ve stratejilerinin model performansı üzerindeki etkileri incelenmiştir.
 
 📂 İçindekiler
